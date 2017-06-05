@@ -36,6 +36,7 @@ public class selectDropvalue {
 		// Open facebook
 		driver.get("http://toolsqa.com/automation-practice-form/");
 		//Testing
+		System.out.println("Testing");
 		// Maximize browser
 		driver.manage().window().maximize();
 		
